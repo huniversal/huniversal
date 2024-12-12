@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=huniversal&fontSize=90&animation=fadeIn" />
 <div align=left>
-	<h2>📚 Tech Stack 📚</h2>
 	<h4>✨ Front-end ✨</h4>
 </div>
 <div align="left">
