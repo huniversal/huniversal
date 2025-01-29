@@ -33,17 +33,25 @@
 </div>
 
 <div align=left>
+	<h4>👨‍🎓 Education</h4>
+</div>
+<div align=left>
+	<li>인하공업전문대학 컴퓨터정보공학과 (2023 ~ )</li>
+</div>
+<div align=left>
+	<h4>👥 Experience</h4>
+</div>
+<div align=left>
+	<li>GoormthonUniv 3기 인하공업전문대학 교내 운영진 및 프론트엔드 (2024.07 ~ 2025.01)</li>
+	<li>멋쟁이사자처럼 프론트엔드 14기 (2025.02 ~ 2025.08)</li>
+</div>
+<div align=left>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huniversal&layout=compact">
 </div>
 
-<div align=left>
-	<h4>👨‍🎓 Education</h4>
-</div>
-<div align=left>
-	<p>인하공업전문대학 컴퓨터정보공학과</p>
-</div>
+
  
 
 
