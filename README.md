@@ -36,6 +36,14 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huniversal&layout=compact">
+</div>
 
+<div align=left>
+	<h4>👨‍🎓 Education</h4>
+</div>
+<div align=left>
+	<p>인하공업전문대학 컴퓨터정보공학과</p>
+</div>
+ 
 
 
