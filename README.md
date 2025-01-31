@@ -1,6 +1,6 @@
 <h2>console.log("Hi hunjin👋")</h2>
 <div align=left>
-	<h4>👨🏻‍💻 Language </h4>
+	<h3>👨🏻‍💻 Language </h3>
 </div>
 <div align="left">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -9,21 +9,21 @@
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 <div align="left">
-	<h4>👨🏻‍💻 Library</h4>
+	<h3>👨🏻‍💻 Library</h3>
 </div>
 <div align="left">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
 
 <div align=left>
-	<h4>👨🏻‍💻 DataBase </h4>
+	<h3>👨🏻‍💻 DataBase </h3>
 </div>
 <div align="left">
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
 <div align=left>
-	<h4>🛠 Tools 🛠</h4>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -33,13 +33,13 @@
 </div>
 
 <div align=left>
-	<h4>👨‍🎓 Education</h4>
+	<h3>👨‍🎓 Education</h3>
 </div>
 <div align=left>
 	<li>인하공업전문대학 컴퓨터정보공학과 (2023 ~ )</li>
 </div>
 <div align=left>
-	<h4>👥 Experience</h4>
+	<h3>👥 Experience</h3>
 </div>
 <div align=left>
 	<li>GoormthonUniv 3기 인하공업전문대학 운영진 및 프론트엔드 (2024.07 ~ 2025.01)</li>
