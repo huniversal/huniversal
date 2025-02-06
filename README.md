@@ -36,13 +36,13 @@
 	<h3>👨‍🎓 Education</h3>
 </div>
 <div align=left>
-	<li><strong>INHA Technical College</strong> Computer Science Engineering (2023 ~ )</li>
+	<li><strong>인하공업전문대학</strong> 컴퓨터정보공학과 (2023 ~ )</li>
 </div>
 <div align=left>
 	<h3>👥 Experience</h3>
 </div>
 <div align=left>
-	<li><strong>GoormthonUniv </strong> 3rd INHA TC Front-End Team manager (2024.07 ~ 2025.01)</li>
+	<li><strong>GoormthonUniv </strong> 3rd 운영진 및 프론트엔드 팀장 (2024.07 ~ 2025.01)</li>
 	<li><strong>LikeLion Front-End School</strong> 13th (2025.02 ~ 2025.08)</li>
 </div>
 <div align=left>
