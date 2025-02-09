@@ -26,8 +26,15 @@
 <div align=left>
 	<li><strong>TOC</strong> - 인하공업전문대학 컴퓨터정보공학과 전공멘토링 | 2023.09 ~ 2023.12 | </li>
 	<li><strong>모죽</strong> - 인하공업전문대학 컴퓨터정보공학과 전공동아리 | 2024.03 ~ 2024.09 | </li>
-	<li><strong>GoormthonUniv </strong> 3rd | 운영진 및 프론트엔드 팀장 | 2024.07 ~ 2025.01 |</li>
+	<li><strong>GoormthonUniv</strong> 3rd InhaTC | 교내 운영진 및 프론트엔드 | 2024.07 ~ 2025.01 |</li>
 	<li><strong>LikeLion</strong> Front-End School 13th | 프론트엔드 | 2025.02 ~ 2025.08 |</li>
+</div>
+</br></br>
+<div align=left>
+	<h2>🏆 Awards</h2>
+</div>
+<div align=left>
+	<li><strong>인하공업전문대학 컴퓨터정보공학과 해커톤</strong> - 장려상  | 2024.09 | </li>
 </div>
 </br></br>
 <div align=left>
