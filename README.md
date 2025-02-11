@@ -43,12 +43,16 @@
 <div align=left>
 	<li><strong>인하공업전문대학 컴퓨터정보공학과 해커톤</strong> - 장려상  | 2024.09 | </li>
 </div>
-</br></br>
-<div align=left>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huniversal&layout=compact">
-</div>
+</br></br></br></br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huniversal&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/huniversal"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 
  
