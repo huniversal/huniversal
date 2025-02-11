@@ -27,6 +27,20 @@
 </div>
 </div>
 </br></br>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
+	<br> 
+    <div style="text-align: left;"> 
+	<a href=mailto:gnswls3945@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gnswls3945@gmail.com"> </a>
+        <a href=https://velog.io/@huniversal> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@huniversal"> </a>
+        <a href=https://www.instagram.com/huniivers/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/huniivers/"> </a>
+   </div>  
+   <br> 
+   <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuniversal%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    </div>
+</div></br>
 <div align=left>
 	<h2>👥 Activity</h2>
 </div>
@@ -44,6 +58,7 @@
 	<li><strong>인하공업전문대학 컴퓨터정보공학과 해커톤</strong> - 장려상  | 2024.09 | </li>
 </div>
 </br></br></br></br>
+    
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huniversal&utm_content=farm">
 <img
