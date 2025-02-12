@@ -1,5 +1,3 @@
-## 👋 Hi, there
-
 ### 🍀 About me
 [![GitHub Hit Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuniversal%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Velog Badge](https://img.shields.io/badge/huniversal.log-3DDC84?style=flat&logo=Velog&logoColor=white)](https://velog.io/@huniversal)
@@ -30,9 +28,9 @@
 
 ### 👥 Activity
 | 기간 | 활동 | 기수 | 역할 |
-|:-:|:-|:-:|:-|
-| 2025.02 ~ 25.08 | **LikeLion** Front-End School | 13기 | 프론트엔드 | 
-| 2024.07 ~ 25.01 | **9oormthonUniv** InhaTC | 3기 | 운영진 및 프론트엔드 | 
+|:-:|:-:|:-:|:-:|
+| 2025.02 ~ 25.08 | **LikeLion** FE School | 13기 | 프론트엔드 | 
+| 2024.07 ~ 25.01 | **9oormthonUniv** InhaTC | 3기 | 운영진, 프론트엔드 | 
 | 2024.03 ~ 24.09 | **모죽** - 전공동아리 | - | 팀원 | 
 | 2023.09 ~ 23.12 | **Toc** - 전공멘토링 | - | 팀원 | 
 </br>
@@ -41,7 +39,7 @@
 ### 🏆 Awards
 | 날짜 | 대회 | 수상 | 역할 |
 |:-:|:-:|:-:|:-:|
-| 2024.09 | **InhaTC CSE Hackathon** | 장려상 | 팀장 및 프론트엔드 |
+| 2024.09 | **InhaTC CSE Hackathon** | 장려상 | 팀장, 프론트엔드 |
 </br>
 
 
