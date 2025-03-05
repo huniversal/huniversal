@@ -39,15 +39,4 @@
 </div>
 </details>
 
-<details>
-<summary>🏆 Awards</summary>
-<div markdown="1">
-    
-| 날짜 | 대회 | 수상 | 역할 |
-|:-:|:-:|:-:|:-:|
-| 2024.09 | **Inhatc CSE Hackathon** | 장려상 | 팀장, 프론트엔드 |
-
-</div>
-</details>
-
 [![GitHub Contribution Farm](https://render.gitanimals.org/farms/huniversal)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huniversal&utm_content=farm)
