@@ -23,8 +23,8 @@
 </p> 
 
 
-<details>
-<summary>👥 Activity</summary>
+
+#### 👥 Activity
 <div markdown="1">
     
 | 기간 | 활동 | 기수 | 역할 |
@@ -37,6 +37,5 @@
 | 2022.11 ~ 23.04 | **CampingGreen** - KHU 스타트업 | - | 기획 | 
 
 </div>
-</details>
 
 [![GitHub Contribution Farm](https://render.gitanimals.org/farms/huniversal)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huniversal&utm_content=farm)
