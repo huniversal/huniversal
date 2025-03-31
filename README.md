@@ -1,5 +1,4 @@
 #### 🍀 About me
-[url=https%3A%2F%2Fgithub.com%2Fhuniversal%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Velog Badge](https://img.shields.io/badge/huniversal.log-3DDC84?style=flat&logo=Velog&logoColor=white)](https://velog.io/@huniversal)
 [![Instagram Badge](https://img.shields.io/badge/huniivers-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/huniivers/)
 
