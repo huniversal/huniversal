@@ -1,6 +1,5 @@
 #### 🍀 About me
 [![Velog Badge](https://img.shields.io/badge/huniversal.log-3DDC84?style=flat&logo=Velog&logoColor=white)](https://velog.io/@huniversal)
-[![Instagram Badge](https://img.shields.io/badge/huniivers-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/huniivers/)
 
 🙋🏻‍♂️ I'm Hunjin Lee<br>
 🏫 Student at the **Department of Computer Science Engineering**, Inha Technical College  
