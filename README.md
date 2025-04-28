@@ -25,19 +25,14 @@
 
 
 #### 👥 Activity
-<div markdown="1">
-    
-| 기간 | 활동 | 기수 | 역할 |
-|:-:|:-:|:-:|:-:|
-| 2025.03 ~ 25.11 | **9oormthonUniv** | 4기 | 경인지부 대표, 인하공전 대표 | 
-| 2025.07 | **9ITHON** | 4기 | 총괄 | 
-| 2025.03 ~ 25.08 | **LikeLion** | 13기 | 프론트엔드 | 
-| 2024.11 | **DANPUNGTHON** | 3기 | 현장 운영진 | 
-| 2024.07 ~ 25.01 | **9oormthonUniv** | 3기 | 교내 운영진, 프론트엔드 | 
-| 2024.03 ~ 24.09 | **모죽** - 전공동아리 | - | 동아리원 | 
-| 2023.09 ~ 23.12 | **Toc** - 전공멘토링 | - | 팀원 | 
-| 2022.11 ~ 23.04 | **CampingGreen** - 경희대 창업팀 | - | 기획파트 | 
+- 2025 ~ ☁️ 구름톤 유니브 4기 경인지부 대표 및 교내 대표
+- 2025 ~ ☁️ 구름톤 유니브 4기 9ITHON 총괄
+- 2025 ~ 🦁 멋쟁이사자처럼 13기 프론트엔드
+- 2024 ~ ☁️ 구름톤 유니브 3기 교내 운영진 및 프론트엔드
+- 2024 ~ 🏫 교내 전공 동아리 모죽 동아리원
+- 2023 ~ 🏫 교내 전공 멘토링 TOC 팀원
+- 2022 ~ 🏫 경희대 창업팀 CampingGreen 기획팀
 
-</div>
+
 
 [![GitHub Contribution Farm](https://render.gitanimals.org/farms/huniversal)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huniversal&utm_content=farm)
