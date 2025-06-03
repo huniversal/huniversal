@@ -34,6 +34,6 @@
 - 2024 ~ 🏫 인하공전 전공 동아리 모죽
 - 2022 ~ 🏫 경희대 창업팀 캠핑그린
 
-
-
+#### GitHub stats
+![hunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true&theme=radical)
 [![GitHub Contribution Farm](https://render.gitanimals.org/farms/huniversal)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huniversal&utm_content=farm)
