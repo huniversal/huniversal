@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 Stacks
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,vite,vscode,nodejs,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,redux,vite,vscode,nodejs,postman,figma" />
   </a>
 </div>
 </br>
