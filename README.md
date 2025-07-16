@@ -24,4 +24,11 @@
 </br>
 
 ### ⭐️ GitHub stats
-[![GitHub Contribution Farm](https://render.gitanimals.org/farms/huniversal)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huniversal&utm_content=farm)
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/733351063188179970/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
