@@ -21,7 +21,10 @@
 - 2024 ~ 🏫 인하공업전문대학 전공동아리 모죽
 - 2022 ~ 🏫 경희대학교 삼의원창업센터 캠핑그린
 
-</br>
+<div>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true&theme=radical)
+</div>
 
 ### ⭐️ GitHub stats
 <a href="https://www.gitanimals.org/">
