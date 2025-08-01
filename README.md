@@ -22,11 +22,13 @@
 - 2022 ~ 🏫 경희대학교 삼의원창업센터 캠핑그린
 
 <div>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true&theme=radical)
-</div>
+
+<br />
 
 ### ⭐️ GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true&theme=react)
+</div>
+
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/733351063188179970/draw"
