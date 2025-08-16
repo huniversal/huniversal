@@ -26,11 +26,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huniversal&show_icons=true&theme=react)
 </div>
 
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/733351063188179970/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+
