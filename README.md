@@ -14,7 +14,7 @@
 
 ### 👥 Activity
 #### SOPT
-- 대학생 연합 IT 벤처 창업 동아리 SOPT 37기 WEB `YB`
+- 2025 대학생 연합 IT 벤처 창업 동아리 SOPT 37기 WEB `YB`
 
 #### kakao x goorm
 - 2025 구름톤 유니브 4기 시즌톤 데모데이 Spark-Up `운영진`
