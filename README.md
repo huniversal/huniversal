@@ -1,7 +1,7 @@
 ### 🍀 About me
 🙋🏻‍♂️ I'm Hunjin Lee<br>
 🏫 Student at the **Department of Computer Science Engineering**, Inha Technical College  
-📚 Interested in Front-End Development using **React** </br>
+📚 Interested in FrontEnd Development using **React** </br>
 
 ### 👨🏻‍💻 Stacks
 <div>
