@@ -16,9 +16,9 @@
 <details>
 <summary><strong>SOPT</strong></summary>
 
-- SOPT 37기 WEB `YB` `MEDIA`
-- SOPT 37기 SOPKATHON 웹파트 대상 `Shamrock Tales`
-- SOPT 37기 웹파트 컨퍼런스 WEBBYCON `운영진` 
+- 2025 SOPT 37기 WEB `YB` `MEDIA`
+- 2025 SOPT 37기 SOPKATHON 웹파트 대상 `Shamrock Tales`
+- 2025 SOPT 37기 웹파트 컨퍼런스 WEBBYCON `운영진` 
 
 </details>
 
