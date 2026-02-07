@@ -1,17 +1,9 @@
-### 🍀 About me
-🙋🏻‍♂️ I'm Hunjin Lee<br>
-🏫 Student at the **Department of Computer Science Engineering**, Inha Technical College  
-📚 Interested in FrontEnd Development using **React** </br>
+### 이훈진
+> 근거있는 개발하기
 
-### 👨🏻‍💻 Stacks
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,tailwindcss,css,html" />
-  </a>
-</div>
 </br>
 
-### 👥 Activity
+### Activity
 
 <strong>SOPT</strong>
 
