@@ -16,9 +16,9 @@
 <details>
 <summary><strong>SOPT</strong></summary>
 
-- 2025 SOPT 37기 WEB `YB` `MEDIA`
-- 2025 SOPT 37기 SOPKATHON 웹파트 대상 `Shamrock Tales`
-- 2025 SOPT 37기 웹파트 컨퍼런스 WEBBYCON `운영진`
+- 2025 DIVE SOPT 37기 WEB `YB` `MEDIA`
+- 2025 DIVE SOPT 37기 SOPKATHON 웹파트 대상 `Shamrock Tales`
+- 2025 DIVE SOPT 37기 웹파트 컨퍼런스 WEBBYCON `운영진`
 - 2026 DIVE SOPT 37기 APPJAM 우수상, 심사위원 특별상 `Kareer` 
 
 </details>
