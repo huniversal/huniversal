@@ -2,7 +2,7 @@
 
 ### 🏃💨 Activities
 #### 대학생 연합 IT 벤처 창업 동아리, SOPT
-- PLAY SOPT 39기 AI Procudct Track
+- PLAY SOPT 39기 AI Procduct Track
 - DIVE SOPT 37기 웹 `YB`
 - DIVE SOPT 37기 솝커톤 웹파트 대상 `Shamrock Tales`
 - DIVE SOPT 37기 앱잼 우수상, 심사위원 특별상 `Kareer`
